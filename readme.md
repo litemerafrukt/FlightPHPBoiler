@@ -1,3 +1,3 @@
-# FlightPHP boilerplate
+# Me-page
 
-Just clone, composer install, and start coding.
+Everybody needs a web-page. This is currently mine (2017-05-06).
