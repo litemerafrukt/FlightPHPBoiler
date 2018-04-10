@@ -57,7 +57,7 @@
     <p>Fortsättningskurs i python. Inledande kurs i objektorientering och i enhetstestning.</p>
     <p>Projekt: <a href="http://www.student.bth.se/~anng15/dbwebb-kurser/oopython/me/kmom10/blackops/">Blackops</a></p>
     <p>
-        Me-sida: <a href="http://www.student.bth.se/~anng15/dbwebb-kurser/oophp/me/anax-lite/htdocs/">oopython</a>
+        Me-sida: <a href="http://www.student.bth.se/~anng15/dbwebb-kurser/oopython/me/flask/">oopython</a>
     </p>
 </section>
 
