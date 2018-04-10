@@ -2,11 +2,11 @@
 
     <h2>Om mig</h2>
 
-    <p>Jag heter Anders Nygren och har pysslat med programmering i varierande omfattning de senaste 27 åren. Jag har naturligtvis gjort mycket annat också, som att träna kampsport, cykla, skaffa familj, utbilda mig till först programmerare, sedan tandläkare samt räddat mänskligheten i augmented reality-spelet Ingress.</p>
+    <p>Jag heter Anders Nygren och har sysslat med programmering i varierande omfattning sedan tonåren. Jag har naturligtvis gjort mycket annat också, som att träna kampsport, terränglöpning, skaffa familj, jobbat som programmerare, sedan som tandläkare, samt på sista tiden räddat mänskligheten i augmented reality-spelet Ingress.</p>
 
-    <p>Våren 2015 bestämde jag mig för att att börja plugga programmering igen och sökte ett kurspaket inom webbutveckling på Blekinge Tekniska Högskola. Det gick bra och var riktigt, riktigt kul. Sedan har jag fortsatt med Webprogrammering 120 p.</p>
+    <p>Våren 2015 bestämde jag mig för att att börja plugga programmering och sökte ett kurspaket inom webbutveckling på Blekinge Tekniska Högskola. Det gick bra och var riktigt, riktigt kul. Sedan har jag fortsatt med Webprogrammering 120 p och från hösten 2018 kommer jag att syssla enbart med programmering, dels som amanuens och dels med fortsatta studier.</p>
 
     <h2>Om sidan</h2>
 
-    <p>Sidan är traditionellt handkodad i html, css och php med ramverket <a href="http://flightphp.com/">FlightPHP</a>.</a></p>
+    <p>Sidan är traditionellt handkodad i html, css och php med ramverket <a href="http://flightphp.com/">FlightPHP</a>. Källkoden finns på <a href="https://github.com/litemerafrukt/me">github</a></p>
 </div>
